@@ -45,7 +45,7 @@ Projek ini dibangun menggunakan kombinasi perangkat keras andal dan platform IoT
 * **Mikrokontroler:** ESP32 (Wi-Fi & Bluetooth Enabled)
 * **Sensor Suhu & Kelembapan:** DHT11
 * **Sensor Air:** Water Level Sensor
-* **Aktuator Pakan:** Motor Servo (SG90/MG996R)
+* **Aktuator Pakan:** Motor Servo
 
 ### ☁️ Platform IoT
 * **Blynk IoT Platform:** Digunakan sebagai dashboard monitoring suhu dan tombol kontrol manual servo pakan.
