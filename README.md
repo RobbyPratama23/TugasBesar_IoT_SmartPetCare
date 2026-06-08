@@ -8,13 +8,13 @@
 ### Link Demo Youtube
 YouTube : https://youtu.be/iEdSnXwfAvU?si=NfO_7lMQHy0aUf1e
 
-##📝 Deskripsi
+## 📝 Deskripsi
 Projek ini bertujuan untuk membantu pemilik hewan peliharaan dalam memantau kondisi kandang (suhu) serta level air minum secara real-time. Sistem ini memiliki fitur utama:
 Pemberian Pakan Otomatis: Berdasarkan jadwal (NTP Server) atau kontrol manual melalui aplikasi Blynk.
 Monitoring Lingkungan: Sensor DHT untuk memantau suhu kandang.
 Notifikasi Darurat: Menggunakan Bot Telegram untuk mengirimkan alert jika persediaan air minum habis.
 
-##🔌 Komponen yang Digunakan
+## 🔌 Komponen yang Digunakan
 Mikrokontroller: ESP32
 Sensor Suhu: DHT11
 Sensor Air: Water Level Sensor
