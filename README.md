@@ -49,7 +49,7 @@ Projek ini dibangun menggunakan kombinasi perangkat keras andal dan platform IoT
 
 ### ☁️ Platform IoT
 * **Blynk IoT Platform:** Digunakan sebagai dashboard monitoring suhu dan tombol kontrol manual servo pakan.
-* **Telegram Bot API:** Digunakan sebagai media pengiriman notifikasi/alert kritis ke smartphone pengguna.
+* **Telegram Bot API:** Digunakan sebagai media pengiriman notifikasi/alert kritis ke smartphone pengguna serta dapat memberikan perintah kontrol manual servo.
 
 ---
 
