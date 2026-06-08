@@ -43,7 +43,7 @@ Projek ini dibangun menggunakan kombinasi perangkat keras andal dan platform IoT
 
 ### 🛠️ Perangkat Keras (Hardware)
 * **Mikrokontroler:** ESP32 (Wi-Fi & Bluetooth Enabled)
-* **Sensor Suhu & Kelembapan:** DHT11
+* **Sensor Suhu :** DHT11
 * **Sensor Air:** Water Level Sensor
 * **Aktuator Pakan:** Motor Servo
 
