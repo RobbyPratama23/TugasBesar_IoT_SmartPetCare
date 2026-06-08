@@ -27,8 +27,8 @@ Saksikan demonstrasi lengkap bagaimana sistem ini bekerja melalui video berikut:
 Sistem **Smart Pet Care** dirancang untuk mengatasi kekhawatiran pemilik hewan peliharaan saat harus meninggalkan hewan mereka di rumah. Sistem ini mengintegrasikan pemantauan lingkungan kandang dan otomatisasi mekanis yang dapat diakses dari mana saja.
 
 ### ✨ Fitur Utama:
-1. **Pemberian Pakan Otomatis (Scheduled & Manual Feeder):**
-   * Pemberian pakan terjadwal secara presisi memanfaatkan sinkronisasi **NTP Server**.
+1. **Pemberian Pakan Terjadwal (Scheduled & Manual Feeder):**
+   * Pemberian pakan terjadwal secara presisi.
    * Kontrol manual instan kapan saja dan di mana saja melalui aplikasi **Blynk**.
 2. **Monitoring Lingkungan (Environment Monitoring):**
    * Pemantauan suhu dan kelembapan kandang secara *real-time* untuk memastikan kenyamanan hewan peliharaan.
