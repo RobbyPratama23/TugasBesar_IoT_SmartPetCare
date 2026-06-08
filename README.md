@@ -31,7 +31,7 @@ Sistem **Smart Pet Care** dirancang untuk mengatasi kekhawatiran pemilik hewan p
    * Pemberian pakan yang dapat di lakukan kapan saja.
    * Kontrol manual instan kapan saja dan di mana saja melalui aplikasi **Blynk**.
 2. **Monitoring Lingkungan (Environment Monitoring):**
-   * Pemantauan suhu dan kelembapan kandang secara *real-time* untuk memastikan kenyamanan hewan peliharaan.
+   * Pemantauan suhu kandang secara *real-time* untuk memastikan kenyamanan hewan peliharaan.
 3. **Notifikasi Darurat (Emergency Alert):**
    * Sistem peringatan otomatis melalui **Bot Telegram** jika sensor mendeteksi persediaan air minum telah habis.
 
