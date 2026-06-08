@@ -53,6 +53,5 @@ Projek ini dibangun menggunakan kombinasi perangkat keras andal dan platform IoT
 
 ---
 
-## 🗺️ Skema Rangkaian (Optional)
-*(Jika ada, Anda bisa meletakkan foto skema/rangkaian di folder `img` dan menampilkannya di sini)*
+## 🗺️ Skema Rangkaian
 <img width="936" height="865" alt="WhatsApp Image 2026-04-30 at 22 43 53" src="https://github.com/user-attachments/assets/5e78b220-dd96-4aab-8b80-c588407f91e5" />
