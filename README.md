@@ -47,10 +47,9 @@ Projek ini dibangun menggunakan kombinasi perangkat keras andal dan platform IoT
 * **Sensor Air:** Water Level Sensor
 * **Aktuator Pakan:** Motor Servo (SG90/MG996R)
 
-### ☁️ Platform IoT & Protokol (Software)
+### ☁️ Platform IoT
 * **Blynk IoT Platform:** Digunakan sebagai dashboard monitoring suhu dan tombol kontrol manual servo pakan.
 * **Telegram Bot API:** Digunakan sebagai media pengiriman notifikasi/alert kritis ke smartphone pengguna.
-* **NTP (Network Time Protocol):** Untuk sinkronisasi waktu aktual agar jadwal pakan tetap akurat tanpa RTC eksternal.
 
 ---
 
